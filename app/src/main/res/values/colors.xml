@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="green">#1cac11</color>
+    <color name="green1">#36AD59</color>
+
+    <color name="black">#333333</color>
+
+    <color name="login_back">#202020</color>
+
+    <color name="write">#ffffff</color>
+    <color name="write1">#dec6ff</color>
+    <color name="write2">#f0ffffff</color>
+
+    <color name="violet">#9a6df3</color>
+    <color name="transparent_background">#00000000</color>
+
+    <color name="gray">#a8a8a8</color>
+    <!-- QRCode scanner color begin -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#B0000000</color>
+    <color name="viewfinder_frame">#90FFFFFF</color>
+    <color name="result_point_color">#C0FFFF00</color>
+    <color name="laser_color">#0F0</color>
+    <color name="corner_color">#00FF00</color>
+    <!-- QRCode scanner color end -->
+
+    <!-- Timer picker color begin -->
+    <color name="split_line">#11112233</color>
+    <color name="text1">#59B29C</color>
+    <color name="text2">#333333</color>
+    <color name="color1">#F0F0F0</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#B0B0B0</color>
+    <color name="color4">#666666</color>
+    <color name="color5">#57C5E8</color>
+    <!-- Timer picker color end -->
+</resources>
